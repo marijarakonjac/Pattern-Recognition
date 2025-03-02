@@ -1,16 +1,16 @@
 # Shape Recognition Project
 
 ## Overview
-This repository contains the solution to the shape recognition tasks from the *Pattern Recognition* course at the University of Belgrade, School of Electrical Engineering. The tasks involve designing innovative systems for recognizing shapes based on hypothesis testing and classification algorithms.
+This repository contains the solution to the shape recognition tasks from the Pattern Recognition course at the University of Belgrade, School of Electrical Engineering. The tasks involve designing innovative systems for recognizing shapes based on hypothesis testing and classification algorithms.
 
 ## Tasks
 
-### Task 1: Letter Recognition
-- **Dataset**: Speed data (x and y axes) and pressure values from writing letters on a graphical tablet.
-- **Objective**: 
-  - Recognize 10 letters based on velocity and pressure features.
-  - Design a classification system using hypothesis testing.
-  - Evaluate results using a confusion matrix.
+### Task 1: Shape Recognition
+- **Dataset**: Pressure values from writing letters on a graphical tablet.
+- **Objective**: Implement a classification system using hypothesis testing. This task involves:
+    - Designing and evaluating the classification system with a confusion matrix.
+    - Selecting relevant features and using them for classification.
+    - Visualizing the results and decision boundaries.
   
 ### Task 2: Bayesian Classifier and Sequential Testing
 - **Dataset**: 500 samples from two bimodal classes with Gaussian distributions.
